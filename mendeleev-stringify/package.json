@@ -1,0 +1,9 @@
+{
+    "name": "mendeleev-stringify",
+    "version": "1.0.0",
+    "main": "index.js",
+    "author": "Yasherica0ne",
+    "dependencies": {
+      "mendeleev": "1.0.0"
+    }
+  }

@@ -1,0 +1,8 @@
+{
+    "private": true,
+    "workspaces": [
+        "mendeleev",
+        "mendeleev-master",
+        "mendeleev-stringify"
+    ]
+ }
